@@ -34,6 +34,11 @@ In a terminal window, navigate to the project and issue
 node index.js
 ```
 
+## Demo and walkthrough
+- YouTube: https://youtu.be/L6mhR6dgpKk
+- Medium: TBD
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
