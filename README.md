@@ -2,6 +2,9 @@
 
 Duck is a Node based JavaScript project for getting live cricket scores.
 
+<img src='https://github.com/sumitmukhija/Duck/blob/master/screenshots/screenshot.png?raw=true' />
+
+
 ## Installation
 
 1. Download or clone 
